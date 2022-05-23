@@ -1,0 +1,15 @@
+
+<html>
+<body>
+
+<iframe src="http://www.selenium.dev" width="400" height="400" name="selenium" value=1 id="u_0_2">
+<p> your browser does not support iframes.</p>
+</iframe>
+
+<iframe src="https://www.testng.org" width="400" height="400" name="testng" value=2 id="u_0_1>
+<p> your browser does not support iframes.</p>
+</iframe>
+
+</body>
+</html>
+
